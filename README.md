@@ -122,15 +122,12 @@ I'm always interested in discussing:
 - 🔬 Collaborative research opportunities
 
 **📧 Email:** maryam.majd19@gmail.com  
-**📱 Phone:** +46 764 400 886  
 **📍 Location:** Stockholm, Sweden  
 
 ---
 
-<div align="center">
   
-  ### 💬 *"Transforming complex biological data into actionable insights through machine learning and computational modelling"*
+💬 *"Transforming complex biological data into actionable insights through machine learning and computational modelling"*
   
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=maryammajd.maryammajd)
   
-</div>
